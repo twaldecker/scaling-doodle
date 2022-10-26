@@ -1,3 +1,3 @@
 <?php
-echo("ich bins!");
+echo "ich bins!";
 ?>
